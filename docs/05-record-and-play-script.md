@@ -31,7 +31,7 @@ npx playwright codegen https://demoblaze.com/
 
 # Example: Recording a Script
 
-Suppose you open https://demoblaze.com/, click on a product, and add it to the cart.
+Suppose you open https://demoblaze.com/, click on login, and enter details like username and password and click on login button after that click on logout button.
 Codegen will generate something like this:
 
 ```javascript
